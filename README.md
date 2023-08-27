@@ -16,5 +16,3 @@ Please ⭐ this repo if you think this is helpful.
 ## How to use
 Run the codes from Modified_BB_Strategy file in Pine Script v5 Compiler.
 
-## Contributing 💡
-Looking forward to any feedback!
