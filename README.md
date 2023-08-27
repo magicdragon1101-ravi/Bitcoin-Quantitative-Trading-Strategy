@@ -7,7 +7,14 @@ This strategy is a modification of the classic Bollinger Bands strategy and work
 Please ⭐ this repo if you think this is helpful.
 
 ## Screenshots
-![Toplevel](screenshots/Top-level-window.png)
-![Duration](screenshots/Duration-calculator.png)
-![Optioninput](screenshots/Options-price-calculator.png)
-![Optionoutput](screenshots/Options-price-output.png)
+![Back-testing](screenshots/ever-20230101.png)
+![Overview](screenshots/ever-20230101-overview.png)
+
+## Requirements 
+* Pine Script 5.0
+
+## How to use
+Run the codes from Modified_BB_Strategy file in Pine Script v5 Compiler.
+
+## Contributing 💡
+Looking forward to any feedback!
